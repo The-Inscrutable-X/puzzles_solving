@@ -1,2 +1,2 @@
-# puzzles_solving
- solving some puzzles.
+# Jane Street Puzzles
+ solving some jane street puzzles.
